@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color:  pink;
+}
+#header {
+  background-color: whitesmoke;
+  border-bottom: 2px solid black;
+}
+#navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#navbar a {
+  color: black;
+  text-decoration: none;
+}
+#navbar li {
+  list-style-type: none;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: pink;
+}background-color: #b9d9eb;
+}
+#navbar li:hover {
+  b
+ 
