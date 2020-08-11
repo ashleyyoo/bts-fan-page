@@ -26,4 +26,8 @@ body {
 .navbar li:hover {
   background-color: antiquewhite;
 }
+.pic {
+  width: 100px;
+  height: 100px;
+}
  
